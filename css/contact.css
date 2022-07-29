@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    border: double black 3px;
+    height: 175px;
+    background-color: #89A1B0;
+    text-align: center;
+}
+.logo{
+    float: left;
+}
+nav ul{
+    list-style: none;
+    float: right;
+}
+nav ul li{
+    margin: 33px;
+    margin-top: 75px;
+    display: inline-block;
+}
+nav ul li a{
+    color: #E397D1;
+}
