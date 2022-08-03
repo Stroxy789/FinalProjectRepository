@@ -7,6 +7,7 @@ nav{
     height: 175px;
     background-color: #89A1B0;
     text-align: center;
+    position: sticky;
 }
 .logo{
     float: left;
@@ -22,4 +23,11 @@ nav ul li{
 }
 nav ul li a{
     color: #E397D1;
+}
+nav  div h1{
+    color: #E397D1;
+    text-align: center;
+}
+body{
+    background-color: #FFC55A;
 }

@@ -28,3 +28,20 @@ nav  div h1{
     color: #E397D1;
     text-align: center;
 }
+body{
+    background-color: #FFC55A;
+}
+p{
+    text-align: center;
+    font-size: xx-large;
+    color: #BD628B;
+}
+.maw{
+    float: left;
+    margin: 30px;
+}
+.mega{
+    float: right;
+    transform: scaleX(-1);
+    margin: 30px;
+}
