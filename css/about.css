@@ -31,3 +31,30 @@ nav  div h1{
 body{
     background-color: #FFC55A;
 }
+p{
+    color: #BD628B;
+    font-size: xx-large;
+}
+.bulbapedia{
+    margin: 5px;
+    font-size: xx-large;
+    text-align: center;
+}
+.overview{
+    border: black double 3px;
+    background-color: #89A1B0;
+}
+.history{
+    border: double black 3px;
+    background-color: #89A1B0;
+}
+.maw{
+    float: left;
+}
+.mega{
+    float: right;
+    transform: scaleX(-1);
+}
+.evolution{
+    text-align: center;
+}
