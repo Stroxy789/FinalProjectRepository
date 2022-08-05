@@ -49,3 +49,7 @@ p{
 iframe{
     margin-left: 375px;
 }
+footer p{
+    text-align: center;
+    color: black;
+}
