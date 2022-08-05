@@ -8,6 +8,7 @@ nav{
     background-color: #89A1B0;
     text-align: center;
     position: sticky;
+    top: 0;
 }
 .logo{
     float: left;
